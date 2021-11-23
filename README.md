@@ -1,0 +1,7 @@
+- 👋 Hola, Somos @socialdsc
+- EL SOCIAL DATA LAB busca posicionarse como espacio nexo para la investigación y colaboración en temas de Ciencias Sociales y Políticas Públicas
+- Utilizamos técnicas y herramientas en Ciencias de Datos aplicados a diferentes proyectos de Ciencias Sociales y Políticas Públicas.
+- SOCIAL DATA LAB desarrolla sus actividades con una red de investigadores y profesionales de diferentes y variados ámbitos.
+- Buscamos mejorar la comprensión de las Ciencias Sociales y las Políticas Públicas, mediante la búsqueda, análisis, desarrollo y contrastación de técnicas y datos cuali-cuantitativos de gran volumen.
+- Usamos herramientas de explotación de datos, inteligencia artificial y machine learning.
+- La participación de los investigadores en el laboratorio abarca desde la asistencia técnica, las actividades de capacitación, hasta la participación en proyectos de investigación.
